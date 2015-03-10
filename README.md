@@ -8,3 +8,6 @@ at the [University of Maryland Department of Computer Science](http://cs.umd.edu
 - This image extends the [rocker/ropensci](https://registry.hub.docker.com/u/rocker/ropensci/).
 - It contains an installation of [Spark](https://spark.apache.org/docs/latest/index.html) and [SparkR](http://amplab-extras.github.io/SparkR-pkg/)
  . It is based on [this sparkr image](https://github.com/beniyama/sparkr-docker).
+- It contains the datasets used in the [Introduction to Statistical Learning](http://www-bcf.usc.edu/~gareth/ISL/) book.
+
+
