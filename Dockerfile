@@ -15,6 +15,7 @@ RUN Rscript /tmp/installSpark.r
 
 # install datasets from ISL
 RUN install2.r --error \
-    ISLR
-   
+    ISLR \
+    gapminder
+    
 
