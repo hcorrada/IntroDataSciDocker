@@ -21,6 +21,7 @@ RUN install2.r --error \
     tree \
     e1071 \
     ROCR \
+    randomForest
     
     
     
