@@ -17,7 +17,9 @@ RUN Rscript /tmp/installSpark.r
 RUN install2.r --error \
     ISLR \
     gapminder \
-    cvTools
+    cvTools \
+    tree
+    
     
     
 
