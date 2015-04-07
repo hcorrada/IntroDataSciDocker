@@ -18,7 +18,10 @@ RUN install2.r --error \
     ISLR \
     gapminder \
     cvTools \
-    tree
+    tree \
+    e1071 \
+    ROCR \
+    
     
     
     
