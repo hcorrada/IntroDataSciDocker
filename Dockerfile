@@ -22,7 +22,12 @@ RUN install2.r --error \
     e1071 \
     ROCR \
     randomForest
-    
+
+# install hadley's excel reader package
+RUN installGithub.r \
+    hadley/readxl
+
+
     
     
     
