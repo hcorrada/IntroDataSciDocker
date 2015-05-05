@@ -27,7 +27,7 @@ RUN install2.r --error \
 RUN installGithub.r \
     hadley/readxl
 
-RUN installGithub.r \
+RUN install2.r --error \
     quantmod
     
     
